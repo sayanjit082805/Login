@@ -1,7 +1,7 @@
 
 # Login
 
-A simple and somwhat functional login page built using Material-UI and React.
+A simple and somewhat functional login page built using Material-UI and React.
 
 
 
