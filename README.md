@@ -23,8 +23,8 @@ A simple and somwhat functional login page built using Material-UI and React.
 * Clone the repository.
   
 ```bash
-git clone https://github.com/sayanjit082805/AtmosAlert.git
-cd AtmosAlert
+git clone https://github.com/sayanjit082805/Login.git
+cd Login
 ```
 
 * Install dependencies with ```npm install```
